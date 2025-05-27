@@ -1,10 +1,10 @@
 {
   "telegramApiToken": null,
-  "chatId": null,
+  "chatId": 7042637976,
   "projects": [
     {
-      "topic": "",
-      "url": ""
+      "topic": "yad2-rani",
+      "url": "https://www.yad2.co.il/realestate/rent?topArea=2&area=3&city=6300&yad2_source=latestSearchesPage&minRooms=3&maxRooms=4&minFloor=-1&maxFloor=3&zoom=14&bBox=32.062598%2C34.796460%2C32.080123%2C34.820622"
     }
   ]
 }
